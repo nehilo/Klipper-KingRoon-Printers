@@ -10,6 +10,8 @@ PID Calibration console BED
 PID_CALIBRATE HEATER=heater_bed TARGET= "You Temperature"
 ```
 
+Firmware
+
 ```bash
 make menuconfig
 ```
