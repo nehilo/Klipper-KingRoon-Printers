@@ -42,7 +42,7 @@ PID_CALIBRATE HEATER=extruder TARGET=200 # replace 200 with your average printin
 ```
 PID Calibration console BED
 ```
-PID_CALIBRATE HEATER=heater_bed TARGET=50 # replace 200 with your average printing temperature
+PID_CALIBRATE HEATER=heater_bed TARGET=50 # replace 50 with your average printing temperature
 ```
 
 
