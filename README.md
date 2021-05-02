@@ -20,7 +20,9 @@ make menuconfig
 
 ```bash
 make 
+```
 
+```bash
 ./scripts/update_mks_robin.py out/klipper.bin out/Robin_nano.bin
 ```
 
