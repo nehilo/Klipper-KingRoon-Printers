@@ -3,11 +3,11 @@
 
 PID Calibration console EXTRUDER
 ```bash
-PID_CALIBRATE HEATER=extruder TARGET="You Temperature"
+PID_CALIBRATE HEATER=extruder TARGET=240
 ```
 PID Calibration console BED
 ```bash
-PID_CALIBRATE HEATER=heater_bed TARGET="You Temperature"
+PID_CALIBRATE HEATER=heater_bed TARGET=80
 ```
 
 Firmware
