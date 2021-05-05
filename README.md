@@ -13,6 +13,9 @@ PID_CALIBRATE HEATER=heater_bed TARGET=80
 Firmware
 
 ```bash
+cd ~/klipper
+```
+```bash
 make menuconfig
 ```
 
