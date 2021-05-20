@@ -19,7 +19,7 @@ cd ~/klipper
 make menuconfig
 ```
 
-![alt text](https://github.com/nehilo/klipper_KP3S/blob/main/photo_2021-01-26_18-44-12.jpg?raw=true)
+![alt text](https://github.com/nehilo/klipper_KP3S/blob/main/make.png?raw=true)
 
 ```bash
 make 
