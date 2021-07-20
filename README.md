@@ -21,4 +21,19 @@ make
 ./scripts/update_mks_robin.py out/klipper.bin out/Robin_nano.bin
 ```
 
+
+
+## PID calibration
+Replace `230` and `70` with your average temperatures
+After all commands save auto edited settings with `SAVE_CONFIG`
+
+PID Extruder
+```
+PID_CALIBRATE HEATER=extruder TARGET=230
+```
+PID Hotbed
+```
+PID_CALIBRATE HEATER=heater_bed TARGET=70
+```
+
 You question and main information you can checked https://cutt.ly/Cgow7vL
