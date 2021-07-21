@@ -21,4 +21,18 @@ make
 ./scripts/update_mks_robin.py out/klipper.bin out/Robin_nano.bin
 ```
 
+# Config Files
+
+```bash
+printer.cfg
+ gcodefeatures.cfg
+ stepper.cfg
+ bltouch.cfg
+ uart.cfg
+ extruder.cfg
+ bed.cfg
+ fan.cfg
+ macros.cfg
+```
+
 You question and main information you can checked https://cutt.ly/Cgow7vL
