@@ -25,7 +25,6 @@ make
 
 ```bash
 printer.cfg
- -gcodefeatures.cfg
  -stepper.cfg
  -bltouch.cfg
  -uart.cfg
