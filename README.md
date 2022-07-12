@@ -13,6 +13,8 @@ make menuconfig
 
 ![alt text](https://github.com/nehilo/klipper_KP3S/blob/main/make.png?raw=true)
 
+![alt text](https://github.com/nehilo/Klipper_KingRoon_KP3S/blob/main/GD32.jpg?raw=true)
+
 ```bash
 make 
 ```
