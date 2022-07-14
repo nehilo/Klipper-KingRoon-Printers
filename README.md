@@ -38,7 +38,7 @@ If you don`t want to use LCD and turn off cable from motherboard:
 printer.cfg
  -stepper.cfg
  -bltouch.cfg
- -uart.cfg
+ -tmc.cfg
  -extruder.cfg
  -bed.cfg
  -fan.cfg
