@@ -42,7 +42,9 @@ printer.cfg
  -extruder.cfg
  -bed.cfg
  -fan.cfg
- -macros.cfg
+ -macros
+    -macros.cfg
+    -printing.cfg
 ```
 
 You question and main information you can checked https://cutt.ly/Cgow7vL
