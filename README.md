@@ -24,7 +24,8 @@ make
 ```bash
 ./scripts/update_mks_robin.py out/klipper.bin out/Robin_nano.bin
 ```
-If you don`t want to use LCD:
+
+If you don`t want to use LCD and turn off cable from motherboard:
 
 
 ```bash
