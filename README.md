@@ -24,6 +24,12 @@ make
 ```bash
 ./scripts/update_mks_robin.py out/klipper.bin out/Robin_nano.bin
 ```
+If you don`t want to use LCD:
+
+
+```bash
+./scripts/update_mks_robin.py out/klipper.bin out/Robin_nano43.bin
+```
 
 # Config Files Folder
 
