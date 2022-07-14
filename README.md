@@ -43,8 +43,8 @@ printer.cfg
  -bed.cfg
  -fan.cfg
  -macros
-    -macros.cfg
-    -printing.cfg
+    macros.cfg
+    printing.cfg
 ```
 
 You question and main information you can checked https://cutt.ly/Cgow7vL
