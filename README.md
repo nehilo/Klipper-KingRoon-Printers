@@ -40,6 +40,7 @@ printer.cfg
  -extruder.cfg
  -bed.cfg
  -fan.cfg
+ -thermistor.cfg
  -macros
     macros.cfg
     printing.cfg
@@ -55,6 +56,7 @@ printer.cfg
  -extruder.cfg
  -bed.cfg
  -fan.cfg
+ -thermistor.cfg
  -macros
     macros.cfg
     printing.cfg
