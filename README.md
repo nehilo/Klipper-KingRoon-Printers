@@ -11,7 +11,7 @@ cd ~/klipper
 make menuconfig
 ```
 
-STM32F103
+***STM32F103***
 ![alt text](https://github.com/nehilo/klipper_KP3S/blob/main/make.png?raw=true)
 
 GD32F103
