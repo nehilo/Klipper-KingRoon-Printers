@@ -38,6 +38,8 @@ If you don`t want to use LCD and turn off cable from motherboard:
 
 ![alt text](https://github.com/nehilo/Klipper_KingRoon_KP3S/blob/main/pic/UART_Kingroon%201.3.jpg?raw=true)
 
+![alt text](https://github.com/nehilo/Klipper_KingRoon_KP3S/blob/main/pic/Soldering_tmc.jpg?raw=true)
+
 # Basic Files Folder Configuration
 
 ```bash
