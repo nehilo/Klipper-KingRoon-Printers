@@ -32,7 +32,7 @@ If you don`t want to use LCD and turn off cable from motherboard:
 ./scripts/update_mks_robin.py out/klipper.bin out/Robin_nano43.bin
 ```
 
-# Basic Files Folder
+# Basic Files Configuration
 
 ```bash
 printer.cfg
@@ -46,7 +46,7 @@ printer.cfg
     printing.cfg
 ```
 
-# Advanced Files Folder
+# Advanced Files Configuration
 
 ```bash
 printer.cfg
