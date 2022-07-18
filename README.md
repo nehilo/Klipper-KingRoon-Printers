@@ -37,7 +37,7 @@ If you don`t want to use LCD and turn off cable from motherboard:
 # Basic Files Folder Configuration
 
 ```bash
-printer.cfg
+ -printer.cfg
  -stepper.cfg
  -extruder.cfg
  -bed.cfg
@@ -51,7 +51,7 @@ printer.cfg
 # Advanced Files Folder Configuration
 
 ```bash
-printer.cfg
+ -printer.cfg
  -stepper.cfg
  -bltouch.cfg
  -tmc.cfg
