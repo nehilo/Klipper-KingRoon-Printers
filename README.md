@@ -64,4 +64,4 @@ printer.cfg
     printing.cfg
 ```
 
-You question and main information you can checked https://cutt.ly/Cgow7vL
+You question and main information you can checked https://cutt.ly/5LHo4yC
