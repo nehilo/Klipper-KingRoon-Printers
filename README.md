@@ -1,6 +1,9 @@
 # Klipper KP3S
 ![alt text](https://github.com/nehilo/Klipper-KingRoon-Printers/blob/main/pic/banner.png?raw=true)
 
+# MCU Support
+
+Minimal system recommenadation : Orange Pi Zero 2
 
 # Firmware build
 
