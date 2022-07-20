@@ -3,7 +3,7 @@
 
 # HOST Recommendation
 
-Minimal system recommendation : [Orange Pi Zero 2](https://aliexpress.ru/item/1005001823662622.html?spm=a2g2w.productlist.0.1.7e875542pjctf0&sku_id=12000017777234288 "Необязательная подсказка")
+Minimal system recommendation : [Orange Pi Zero 2](https://aliexpress.ru/item/1005001823662622.html?spm=a2g2w.productlist.0.1.7e875542pjctf0&sku_id=12000017777234288)
 
 # Firmware build
 
