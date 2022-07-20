@@ -13,7 +13,7 @@ make menuconfig
 
 ***STM32F103***
 
-![alt text](https://github.com/nehilo/klipper_KP3S/blob/main/make.png?raw=true)
+![alt text](https://github.com/nehilo/Klipper-KingRoon-Printers/blob/main/pic/stm32.png?raw=true)
 
 ***GD32F103 / F303***
 
