@@ -1,7 +1,7 @@
 # Klipper KP3S
 ![alt text](https://github.com/nehilo/Klipper-KingRoon-Printers/blob/main/pic/banner.png?raw=true)
 
-# MCU Recommendation
+# HOST Recommendation
 
 Minimal system recommendation : Orange Pi Zero 2
 
