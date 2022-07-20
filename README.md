@@ -1,5 +1,5 @@
 # Klipper KP3S
-![alt text](https://github.com/nehilo/klipper_KP3S/blob/main/klipper%20kp3s.png?raw=true)
+![alt text](https://github.com/nehilo/Klipper-KingRoon-Printers/blob/main/pic/banner.jpg?raw=true)
 
 
 # Firmware build
