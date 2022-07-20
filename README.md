@@ -4,6 +4,7 @@
 # HOST Recommendation
 
 Minimal system recommendation : [Orange Pi Zero 2](https://aliexpress.ru/item/1005001823662622.html?spm=a2g2w.productlist.0.1.7e875542pjctf0&sku_id=12000017777234288)
+[Makerbase MKS PI](https://aliexpress.ru/item/1005004458622987.html?pdp_npi=2%40dis%21RUB%212%C2%A0560%2C96%20%D1%80%D1%83%D0%B1.%212%C2%A0356%2C03%20%D1%80%D1%83%D0%B1.%21%21%21%21%21%4021135c3f16582934765198182ea945%2112000029242151027%21sh&sku_id=12000029242151027&spm=a2g0o.store_pc_allProduct.8148356.35.491e673e0whoZK)
 
 # Firmware build
 
