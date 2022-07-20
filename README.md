@@ -5,7 +5,6 @@
 
 Minimal system recommendation : Orange Pi Zero 2
 
-
 # Firmware build
 
 ```bash
