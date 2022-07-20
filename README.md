@@ -17,7 +17,7 @@ make menuconfig
 
 ***GD32F103 / F303***
 
-![alt text](https://github.com/nehilo/Klipper_KingRoon_KP3S/blob/main/GD32.jpg?raw=true)
+![alt text](https://github.com/nehilo/Klipper-KingRoon-Printers/blob/main/pic/GD32.jpg?raw=true)
 
 ```bash
 make 
