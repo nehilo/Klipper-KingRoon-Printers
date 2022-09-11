@@ -1,4 +1,4 @@
-# Klipper KP3S
+# Klipper Kingroon Printers
 ![alt text](https://github.com/nehilo/Klipper-KingRoon-Printers/blob/main/pic/banner.png?raw=true)
 
 # HOST Recommendation
