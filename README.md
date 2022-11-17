@@ -44,7 +44,11 @@ Manual:
 
 https://youtu.be/2X_U2wZV_pw
 
+Pins:
+```bash
 X:PA5　Y:PC13　Z:PC7　E:PA10
+```
+
 
 # Basic Files Folder Configuration
 
