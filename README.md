@@ -40,7 +40,10 @@ If you don`t want to use LCD and turn off cable from motherboard:
 
 # TMC UART Pin KingRoon 1.3 Motherboard ( FOR ADVANCED USERS )
 
-UPDATE
+INSTRUCTION:
+https://youtu.be/2X_U2wZV_pw
+
+X:PA5　Y:PC13　Z:PC7　E:PA10
 
 # Basic Files Folder Configuration
 
