@@ -42,7 +42,13 @@ If you don`t want to use LCD and turn off cable from motherboard:
 
 Manual:
 
+KP3S 1.2 Main Board
 https://youtu.be/2X_U2wZV_pw
+
+KP3S 1.3 Main Board
+https://www.youtube.com/watch?v=BF19ZXk5KRw
+
+Thanks for Video to [こんゆたか](https://www.youtube.com/@user-wk7lu7ph4e)
 
 Pins:
 ```bash
