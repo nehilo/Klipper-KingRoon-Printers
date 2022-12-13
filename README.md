@@ -38,14 +38,14 @@ If you don`t want to use LCD and turn off cable from motherboard:
 ./scripts/update_mks_robin.py out/klipper.bin out/Robin_nano43.bin
 ```
 
-# TMC UART Pin KingRoon 1.3 Motherboard ( FOR ADVANCED USERS )
+# TMC UART Pin KingRoon Motherboard ( FOR ADVANCED USERS )
 
 Manual:
 
-KP3S 1.2 Main Board
+KP3S 1.2 Motherboard
 https://youtu.be/2X_U2wZV_pw
 
-KP3S 1.3 Main Board
+KP3S 1.3 Motherboard
 https://www.youtube.com/watch?v=BF19ZXk5KRw
 
 
