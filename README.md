@@ -52,7 +52,7 @@ Thanks for Video to [こんゆたか](https://www.youtube.com/@user-wk7lu7ph4e)
 
 Pins:
 ```bash
-X:PA5　Y:PC13　Z:PC7　E:PA10
+X:PA5　Y:PC13　Z:PC7　E:PA10  E1:PA9
 ```
 
 
