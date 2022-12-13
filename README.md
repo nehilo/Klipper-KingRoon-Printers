@@ -48,12 +48,13 @@ https://youtu.be/2X_U2wZV_pw
 KP3S 1.3 Main Board
 https://www.youtube.com/watch?v=BF19ZXk5KRw
 
-Thanks for Video to [こんゆたか](https://www.youtube.com/@user-wk7lu7ph4e)
 
 Pins:
 ```bash
 X:PA5　Y:PC13　Z:PC7　E:PA10  E1:PA9
 ```
+
+Thanks for Video to [こんゆたか](https://www.youtube.com/@user-wk7lu7ph4e)
 
 
 # Basic Files Folder Configuration
