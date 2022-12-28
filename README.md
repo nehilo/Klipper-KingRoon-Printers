@@ -43,10 +43,10 @@ If you don`t want to use LCD and turn off cable from motherboard:
 Manual:
 
 KP3S 1.2 Motherboard
-https://youtu.be/2X_U2wZV_pw
+https://www.youtube.com/watch?v=BF19ZXk5KRw
 
 KP3S 1.3 Motherboard
-https://www.youtube.com/watch?v=BF19ZXk5KRw
+https://youtu.be/2X_U2wZV_pw
 
 
 Pins:
